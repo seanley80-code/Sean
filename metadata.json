@@ -1,0 +1,6 @@
+{
+  "name": "សន្ទនា",
+  "description": "កម្មវិធីសន្ទនាប្រចាំថ្ងៃ ៣ ភាសា (អង់គ្លេស ចិន ខ្មែរ) មានអក្សរអានខាងក្រោម និងសំឡេងអាន ៣ កំរិត (យឺត ធម្មតា លឿន)។",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
